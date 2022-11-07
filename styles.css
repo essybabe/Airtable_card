@@ -1,0 +1,42 @@
+
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+} */
+body{
+    background-color: rgb(199, 243, 243);
+    border:2px solid rgb(172, 172, 240);
+    width: 300px; 
+    border-radius: 15px;
+    padding: 5px;
+}
+.one{
+    box-sizing: border-box;
+    background-color:blue;
+    
+    
+    
+}
+.p1{
+    color:white;
+    
+}
+.two{
+    /* background-color: rgb(204, 204, 230) */
+    font-size: 20px;
+}
+.p2{
+    font-size: 20px;
+}
+
+button{
+    background-color:blue ; 
+    border: 10px;
+    border-radius: 20px; 
+    width: 12rem;
+    height: 40px;
+    color: white;
+    position: relative;
+    left: 20%;
+}
+
